@@ -34,7 +34,7 @@ Este proyecto fue desarrollado como parte de un desafío de programación front-
 ## 📁 Estructura del Proyecto
 
 ```
-amigo-secreto/
+ChallengeAmigosecreto/
 ├── index.html
 ├── style.css
 ├── app.js
@@ -51,7 +51,7 @@ amigo-secreto/
 1. **Clona este repositorio**:
    ```bash
    git clone https://github.com/EmmanuelML78/ChallengeAmigosecreto.git
-   cd amigo-secreto
+   cd ChallengeAmigosecreto
    ```
 
 2. **Abre el archivo `index.html`** en tu navegador preferido:
