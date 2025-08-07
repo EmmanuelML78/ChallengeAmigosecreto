@@ -50,13 +50,21 @@ amigo-secreto/
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/EmmanuelML78/ChallengeAmigosecreto.git
    cd amigo-secreto
    ```
 
 2. **Abre el archivo `index.html`** en tu navegador preferido:
    - Puedes hacer doble clic sobre el archivo `index.html`.
    - O usar una extensión como Live Server en VS Code.
+
+---
+
+## 🌐 Despliegue
+
+Puedes ver la aplicación en funcionamiento aquí:  
+🔗 [https://emmanuelml78.github.io/ChallengeAmigosecreto/](https://emmanuelml78.github.io/ChallengeAmigosecreto/)
+
 
 ---
 
